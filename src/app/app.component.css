@@ -1,0 +1,9 @@
+.container {
+  margin-top: 30px;
+}
+
+/* these classes are automatically added by angular */
+
+input.ng-invalid.ng-touched{
+  border: 1px solid red;
+}
